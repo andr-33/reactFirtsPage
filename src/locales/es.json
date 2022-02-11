@@ -1,0 +1,12 @@
+{
+    "Titulos": {
+        "App": "Hola pinshe mundo :3",
+        "Home": "Bienvenido"
+    },
+    "Errores": {
+        "e404": "Error 404 | Pagina no encontrada :("
+    },
+    "botones":{
+        "home": "Entrar" 
+    }
+}
